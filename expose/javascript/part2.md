@@ -36,3 +36,12 @@ The function still returns the same list from before given this input, but a sli
 
 # Data Types
 
+## 12
+ - A `student['name']`
+ - B `student['Grad Year']`
+ - C `student['greeting']()`
+ - D `student['Favorite Teacher]['name']`
+ - E `student['courseLoad'][0]`
+
+# Basic Operators & type Conversions
+## 13
